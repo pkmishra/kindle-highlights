@@ -133,3 +133,1358 @@ Deep Learning for Coders with fastai and P - Sylvain Gugger (Sylvain Gugger)
 
 Validation Set When you train a model, you must always have both a training set and a validation set, and you must measure the accuracy of your model only on the validation set. If you train for too long, with not enough data, you will see the accuracy of your model start to get worse; this is called overfitting.
 ==========
+Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 55-56 | Added on Saturday, October 25, 2014 11:54:18 PM
+
+I have noticed is that successful people find value in unexpected places, and they do this by thinking about business from first principles instead of formulas.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 120-121 | Added on Sunday, October 26, 2014 12:06:15 AM
+
+startup is the largest group of people you can convince of a plan to
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 121-121 | Added on Sunday, October 26, 2014 12:06:22 AM
+
+build a different future.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 323-324 | Added on Sunday, October 26, 2014 11:57:56 PM
+
+In business, money is either an important thing or it is everything. Monopolists can afford to think about things other than making money; non-monopolists can’t.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 358-359 | Added on Monday, October 27, 2014 12:02:37 AM
+
+All happy companies are different: each one earns a monopoly by solving a unique problem. All failed companies are the same: they failed to escape competition.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 399-400 | Added on Monday, October 27, 2014 12:09:39 AM
+
+people lose sight of what matters and focus on their rivals instead.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 495-496 | Added on Monday, October 27, 2014 12:21:36 AM
+
+If you focus on near-term growth above all else, you miss the most important question you should be asking: will this business still be around a decade from now?
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 498-499 | Added on Monday, October 27, 2014 12:22:22 AM
+
+Every monopoly is unique, but they usually share some combination of the following characteristics: proprietary technology, network effects, economies of scale, and branding.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 524-525 | Added on Monday, October 27, 2014 12:28:04 AM
+
+Network effects can be powerful, but you’ll never reap them unless your product is valuable to its very first users when the network is necessarily small.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 568-569 | Added on Monday, October 27, 2014 12:32:24 AM
+
+reach a few thousand people who really needed our product than to try to compete for the attention of millions of scattered individuals.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 569-570 | Added on Monday, October 27, 2014 12:32:45 AM
+
+The perfect target market for a startup is a small group of particular people concentrated together and served by few or no
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 570-570 | Added on Monday, October 27, 2014 12:32:52 AM
+
+competitors.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 855-855 | Added on Saturday, November 1, 2014 12:26:57 AM
+
+apocryphal.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 967-967 | Added on Saturday, November 1, 2014 12:41:33 AM
+
+You can achieve difficult things, but you can’t achieve the impossible.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 967-967 | Added on Saturday, November 1, 2014 12:41:47 AM
+
+The difference matters. You can achieve difficult things, but you can’t achieve the impossible.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 977-979 | Added on Saturday, November 1, 2014 12:43:06 AM
+
+in order to be happy, every individual “needs to have goals whose attainment requires effort, and needs to succeed in attaining at least some of his goals.”
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 1057-1058 | Added on Saturday, November 1, 2014 12:53:42 AM
+
+If you think something hard is impossible, you’ll never even start trying to achieve it. Belief in secrets is an effective truth.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 1274-1275 | Added on Saturday, November 8, 2014 12:56:08 AM
+
+From the outside, everyone in your company should be different in the same way.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 1287-1287 | Added on Saturday, November 8, 2014 12:56:23 AM
+
+On the inside, every individual should be sharply distinguished by her work.
+==========
+﻿Zero to One: Notes on Start Ups, or How to Build the Future (Thiel, Peter;Masters, Blake)
+- Your Highlight on Location 1607-1608 | Added on Tuesday, November 11, 2014 12:25:00 AM
+
+seven questions that every business must answer:
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 4 | Location 143-144 | Added on Monday, January 26, 2015 1:19:21 PM
+
+There are no shortcuts to knowledge, especially knowledge gained from personal experience. Following conventional wisdom and relying on shortcuts can be worse than knowing nothing at all.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 5 | Location 158-158 | Added on Thursday, January 29, 2015 10:00:39 AM
+
+leadership is the ability to get someone to follow you even if only out of curiosity.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 5 | Location 168-169 | Added on Thursday, January 29, 2015 10:02:11 AM
+
+The simple existence of an alternate, plausible scenario is often all that’s needed to keep hope alive among a worried workforce.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 22 | Location 435-439 | Added on Thursday, January 29, 2015 10:24:39 AM
+
+No matter who you are, you need two kinds of friends in your life. The first kind is one you can call when something good happens, and you need someone who will be excited for you. Not a fake excitement veiling envy, but a real excitement. You need someone who will actually be more excited for you than he would be if it had happened to him. The second kind of friend is somebody you can call when things go horribly wrong—when your life is on the line and you only have one phone call. Who is it going to be? Bill Campbell is both of those friends.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 47 | Location 832-832 | Added on Thursday, January 29, 2015 11:00:09 AM
+
+I guess I did it because I knew what desperation felt like.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 49 | Location 869-870 | Added on Thursday, January 29, 2015 11:03:17 AM
+
+It turns out that is exactly what product strategy is all about—figuring out the right product is the innovator’s job, not the customer’s job.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 50 | Location 884-885 | Added on Thursday, January 29, 2015 11:05:02 AM
+
+“Okay, listen carefully. Here’s what I’d like you to do. First, reach up to your face and take off your rose-colored glasses. Then
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 50 | Location 885-887 | Added on Thursday, January 29, 2015 11:05:07 AM
+
+get a Q-tip and clean the wax out of your ears. Finally, take off your pink panties and call the fucking vice president right now, because you do not have a deal.”
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 51 | Location 890-890 | Added on Thursday, January 29, 2015 11:05:34 AM
+
+In my weekly staff meeting, I inserted an agenda item titled “What Are We Not Doing?”
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 59 | Location 998-1000 | Added on Thursday, January 29, 2015 5:11:53 PM
+
+Startup CEOs should not play the odds. When you are building a company, you must believe there is an answer and you cannot pay attention to your odds of finding it. You just have to find it. It matters not whether your chances are nine in ten or one in a thousand; your task is the same.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 66 | Location 1100-1100 | Added on Thursday, January 29, 2015 5:29:39 PM
+
+In any human interaction, the required amount of communication is inversely proportional to the level of trust.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 71 | Location 1172-1173 | Added on Thursday, January 29, 2015 5:36:46 PM
+
+you hired me and I busted my ass working for you, I expect you to have the courage to lay me off yourself.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 71 | Location 1182-1183 | Added on Thursday, January 29, 2015 5:37:24 PM
+
+The message is for the people who are staying.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 79 | Location 1288-1289 | Added on Thursday, January 29, 2015 5:45:24 PM
+
+“Ben, you cannot let him keep his job, but you absolutely can let him keep his respect.”
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 80 | Location 1304-1305 | Added on Thursday, January 29, 2015 5:46:44 PM
+
+Every CEO likes to say she runs a great company. It’s hard to tell whether the claim is true until the company or the CEO has to do something really difficult. Firing an executive is a good test.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 84 | Location 1354-1355 | Added on Thursday, January 29, 2015 5:50:51 PM
+
+The best way to do this, if appropriate, is to couple the demotion with an increase in compensation. Doing so will let him know that he’s both appreciated and valued going forward.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 89 | Location 1424-1425 | Added on Thursday, January 29, 2015 6:02:49 PM
+
+We had to go through the front door and deal with the big, ugly guy blocking it. Lead bullets.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 94 | Location 1474-1474 | Added on Thursday, January 29, 2015 6:09:23 PM
+
+when hiring executives, one should follow Colin Powell’s instructions and hire for strength rather than lack of weakness.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 98 | Location 1552-1552 | Added on Thursday, January 29, 2015 9:33:56 PM
+
+“We take care of the people, the products, and the profits—
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 102 | Location 1614-1617 | Added on Thursday, January 29, 2015 9:38:26 PM
+
+Being a good company doesn’t matter when things go well, but it can be the difference between life and death when things go wrong. Things always go wrong. Being a good company is an end in itself.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 108 | Location 1702-1703 | Added on Thursday, January 29, 2015 9:45:41 PM
+
+Functional training can be as simple as training a new employee on your expectations for them (see “Good Product Manager/Bad Product Manager”) and as complex as a multiweek engineering
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 110 | Location 1723-1724 | Added on Thursday, January 29, 2015 9:47:16 PM
+
+withholding new employee requisitions from managers until they’ve developed a training program for the TBH, “To Be Hired.”
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 111 | Location 1747-1748 | Added on Thursday, January 29, 2015 9:49:15 PM
+
+Good product managers are the marketing counterparts to the engineering manager.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 111 | Location 1748-1749 | Added on Thursday, January 29, 2015 9:49:30 PM
+
+Good product managers crisply define the target, the “what” (as opposed to the “how”), and manage the delivery of the “what.”
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 120 | Location 1853-1853 | Added on Thursday, January 29, 2015 9:58:30 PM
+
+big company executives tend to be interrupt-driven.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 122 | Location 1888-1888 | Added on Thursday, January 29, 2015 10:00:34 PM
+
+big and small companies is the amount of time running versus creating.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 122 | Location 1888-1888 | Added on Thursday, January 29, 2015 10:00:38 PM
+
+The most important difference between big and small companies is the amount of time running versus creating.
+==========
+The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers (Horowitz, Ben)
+- Your Highlight on page 127 | Location 1956-1957 | Added on Thursday, January 29, 2015 10:05:10 PM
+
+It’s possible for an executive to be well liked and totally ineffective with respect to the other members of the team.
+==========
+It's Not All About "Me": The Top Ten Techniques for Building Quick Rapport with Anyone (Dreeke, Robin)
+- Your Highlight on page 28 | Location 374-376 | Added on Thursday, May 19, 2016 12:02:57 PM
+
+When individuals speak slowly and clearly, they tend to sound more credible than those who speak quickly.
+==========
+It's Not All About "Me": The Top Ten Techniques for Building Quick Rapport with Anyone (Dreeke, Robin)
+- Your Highlight on page 47 | Location 661-662 | Added on Saturday, May 21, 2016 11:04:46 PM
+
+Thinking clearly, setting objectives, and suspending your ego in furtherance of the set objectives is invaluable
+==========
+It's Not All About "Me": The Top Ten Techniques for Building Quick Rapport with Anyone (Dreeke, Robin)
+- Your Highlight on page 48 | Location 662-663 | Added on Saturday, May 21, 2016 11:04:52 PM
+
+in any interpersonal engagement.
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 4851-4852 | Added on Thursday, May 26, 2016 9:09:33 AM
+
+Restaurants; p. 145: © Pat Watson/ The Image Works; p. 159: © Cameramann/ The Image Works; p. 166: © AFP/
+==========
+It's Not All About "Me": The Top Ten Techniques for Building Quick Rapport with Anyone (Dreeke, Robin)
+- Your Bookmark on page 83 | Location 1128 | Added on Wednesday, June 15, 2016 7:38:06 PM
+
+
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 1221-1222 | Added on Saturday, July 8, 2017 12:10:46 AM
+
+The tactic of starting with a little request in order to gain eventual compliance with related larger requests has a name: the foot-in-the-door technique.
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 1271-1271 | Added on Sunday, July 9, 2017 1:06:46 AM
+
+people themselves use this same evidence— their own behavior—to decide
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 1271-1272 | Added on Sunday, July 9, 2017 1:06:56 AM
+
+what they are like; it is a primary source of information about one's own beliefs, values, and attitudes
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 1289-1289 | Added on Sunday, July 9, 2017 1:09:32 AM
+
+for him to believe that he had not done so. The
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 1696-1699 | Added on Tuesday, July 11, 2017 10:22:23 AM
+
+winter. Although we can never be completely sure of such things, one explanation for their persistent behavior presents itself immediately. These people had been low-balled into a conservation commitment through a promise of newspaper publicity. Once made, that commitment started generating its own support: The homeowners began acquiring new energy habits, began feeling good about their public-spirited
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 1855-1855 | Added on Sunday, July 23, 2017 12:38:57 PM
+
+surveyed the people who came into
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 1880-1880 | Added on Sunday, July 23, 2017 6:14:09 PM
+
+the principle of social proof.
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 1907-1909 | Added on Sunday, July 23, 2017 6:18:02 PM
+
+Advertisers love to inform us when a product is the "fastest-growing" or "largestselling" because they don't have to convince us directly that the product is good; they need only say that many others think so, which seems proof enough.
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 1907-1909 | Added on Sunday, July 23, 2017 6:18:05 PM
+
+Advertisers love to inform us when a product is the "fastest-growing" or "largestselling" because they don't have to convince us directly that the product is good; they need only say that many others think so, which seems proof enough.
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 2236-2238 | Added on Sunday, July 30, 2017 6:25:21 PM
+
+Do not allow bystanders to come to their own conclusions because, especially in a crowd, the principle of social proof and the consequent pluralistic ignorance effect might well cause them to A, view your situation as a nonemergency.
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 2408-2409 | Added on Friday, August 4, 2017 12:01:56 AM
+
+people, especially when they are unsure of themselves, follow the lead of similar others.
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 2408-2409 | Added on Friday, August 4, 2017 12:02:02 AM
+
+people, especially when they are unsure of themselves, follow the lead of similar others.
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 2408-2409 | Added on Friday, August 4, 2017 12:02:06 AM
+
+principle of social proof, which asserts that people, especially when they are unsure of themselves, follow the lead of similar others.
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 2451-2451 | Added on Friday, August 4, 2017 12:07:15 AM
+
+when people are uncertain, they look to the actions of others to guide their own actions. In the alien,
+==========
+influence by Robert Cialdini (Pradeep Kumar Mishra)
+- Your Highlight on Location 2547-2548 | Added on Saturday, August 5, 2017 1:25:14 AM
+
+pluralistic ignorance phenomenon,
+==========
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Pirsig, Robert M.)
+- Your Highlight on page 55 | Location 1103-1103 | Added on Saturday, March 24, 2018 1:08:50 AM
+
+somewhere in the darkness but I’m not going to shag
+==========
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Pirsig, Robert M.)
+- Your Highlight on page 55 | Location 1103-1103 | Added on Saturday, March 24, 2018 1:08:55 AM
+
+somewhere in the darkness but I’m not going to shag
+==========
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Pirsig, Robert M.)
+- Your Highlight on page 63 | Location 1244-1244 | Added on Monday, April 2, 2018 12:49:25 AM
+
+Familiarity can blind you too.
+==========
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Pirsig, Robert M.)
+- Your Highlight on page 88 | Location 1624-1626 | Added on Sunday, April 8, 2018 11:05:09 PM
+
+But to tear down a factory or to revolt against a government or to avoid repair of a motorcycle because it is a system is to attack effects rather than causes; and as long as the attack is upon effects only, no change is possible.
+==========
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Pirsig, Robert M.)
+- Your Highlight on page 95 | Location 1756-1757 | Added on Sunday, April 15, 2018 11:54:19 PM
+
+An experiment is a failure only when it also fails adequately to test the hypothesis in question, when the data it produces don’t prove anything one way or another. Skill at this point consists
+==========
+Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Pirsig, Robert M.)
+- Your Highlight on page 95 | Location 1756-1757 | Added on Sunday, April 15, 2018 11:55:00 PM
+
+An experiment is a failure only when it also fails adequately to test the hypothesis in question, when the data it produces don’t prove anything one way or another.
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 27 | Location 286-286 | Added on Saturday, May 5, 2018 11:37:05 PM
+
+Some things in life can never fully be
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 27 | Location 286-287 | Added on Saturday, May 5, 2018 11:37:20 PM
+
+appreciated or understood by a virgin.
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 41 | Location 484-485 | Added on Wednesday, May 9, 2018 12:13:10 AM
+
+1711 to restore faith in the government’s ability to
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 83 | Location 1046-1046 | Added on Saturday, May 12, 2018 11:42:54 AM
+
+3Com’s business for minus $61 per share.
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 96 | Location 1225-1226 | Added on Saturday, May 12, 2018 11:51:13 PM
+
+The key to investing is not how much an industry will affect society or even how much it will grow, but rather its ability to make and sustain profits.
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 98 | Location 1255-1255 | Added on Monday, May 14, 2018 12:07:06 AM
+
+middle-aged woman who has a serious heart
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 160 | Location 2097-2097 | Added on Friday, May 18, 2018 11:53:12 PM
+
+raison d’être.
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 169 | Location 2234-2235 | Added on Saturday, May 19, 2018 11:42:01 PM
+
+“Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 169 | Location 2234-2234 | Added on Saturday, May 19, 2018 11:42:20 PM
+
+As Keynes put it,
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 169 | Location 2234-2235 | Added on Saturday, May 19, 2018 11:42:39 PM
+
+As Keynes put it, “Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally.”
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 169 | Location 2234-2235 | Added on Saturday, May 19, 2018 11:42:46 PM
+
+As Keynes put it, “Worldly wisdom teaches that it is better for reputation to fail conventionally than to succeed unconventionally.”
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 244 | Location 3208-3209 | Added on Wednesday, May 23, 2018 7:01:35 PM
+
+a dollar loss is 2½ times as painful as a dollar gain is pleasurable. People exhibit extreme loss aversion,
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 244 | Location 3208-3208 | Added on Wednesday, May 23, 2018 7:01:42 PM
+
+dollar loss is 2½ times as painful as a dollar gain is pleasurable.
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 252 | Location 3333-3334 | Added on Wednesday, May 23, 2018 7:35:46 PM
+
+old adage about the game of poker: If you sit down at the table and can’t figure out who the sucker is, get up and leave because it’s you.
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 252 | Location 3332-3334 | Added on Wednesday, May 23, 2018 7:36:02 PM
+
+financial security. There is an old adage about the game of poker: If you sit down at the table and can’t figure out who the sucker is, get up and leave because it’s you.
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 252 | Location 3333-3333 | Added on Wednesday, May 23, 2018 7:36:11 PM
+
+There is an old adage
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 252 | Location 3333-3334 | Added on Wednesday, May 23, 2018 7:36:21 PM
+
+There is an old adage about the game of poker: If you sit down at the table and can’t figure out who the sucker is, get up and leave because it’s you.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 10 | Location 206-207 | Added on Thursday, May 31, 2018 12:12:23 AM
+
+Human babies are helpless, dependent for many years on their elders for sustenance, protection and education.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 27 | Location 466-467 | Added on Friday, June 1, 2018 2:06:45 PM
+
+Large numbers of strangers can cooperate successfully by believing in common myths.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 31 | Location 531-532 | Added on Friday, June 1, 2018 2:15:34 PM
+
+Telling effective stories is not easy. The difficulty lies not in telling the story, but in convincing everyone else to believe
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 31 | Location 531-532 | Added on Friday, June 1, 2018 2:15:52 PM
+
+Telling effective stories is not easy. The difficulty lies not in telling the story, but in convincing everyone else to believe it.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 54 | Location 901-902 | Added on Saturday, June 2, 2018 12:24:56 AM
+
+over some other action. The rock might admonish
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 265 | Location 3504-3505 | Added on Sunday, June 3, 2018 6:06:55 PM
+
+the tendency over long periods of time for small-company stocks to generate larger returns than those of large-company stocks.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 68 | Location 1115-1115 | Added on Friday, June 8, 2018 12:50:15 AM
+
+eucalyptuses are particularly resistant to fire,
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 83 | Location 1333-1333 | Added on Sunday, June 10, 2018 12:23:13 AM
+
+Agricultural Revolution: the ability to keep more people alive under worse conditions
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 97 | Location 1537-1538 | Added on Sunday, June 10, 2018 1:36:12 PM
+
+This discrepancy between evolutionary success and individual suffering is perhaps the most important lesson we can draw from the Agricultural Revolution.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 115 | Location 1832-1833 | Added on Sunday, June 10, 2018 11:37:45 PM
+
+Romanticism tells us that in order to make the most of our human potential we must have as many different experiences as we can.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 118 | Location 1880-1881 | Added on Sunday, June 10, 2018 11:43:41 PM
+
+It follows that in order to change an existing imagined order, we must first believe in an alternative imagined order.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 123 | Location 1956-1958 | Added on Sunday, June 10, 2018 11:57:33 PM
+
+the first recorded name in history belongs to an accountant, rather than a prophet, a poet or a great conqueror.1
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 147 | Location 2318-2318 | Added on Thursday, June 14, 2018 12:29:14 AM
+
+‘Biology enables, Culture forbids.’
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 163 | Location 2508-2508 | Added on Saturday, June 16, 2018 12:09:11 AM
+
+This network of artificial instincts is called ‘culture’.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 165 | Location 2540-2545 | Added on Saturday, June 16, 2018 12:16:42 AM
+
+wish. Why should the government force me to buy health insurance if I prefer using the money to put my kids through college? Republicans, on the other hand, want to maximise individual freedom, even if it means that the income gap between rich and poor will grow wider and that many Americans will not be able to afford health care. Just as medieval culture did not manage to square chivalry with Christianity, so the modern world fails to square liberty with equality. But this is no defect. Such contradictions are an inseparable part of every human culture. In fact, they are culture’s engines, responsible for the creativity and dynamism of our species. Just
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 165 | Location 2545-2546 | Added on Saturday, June 16, 2018 12:16:49 AM
+
+two clashing musical notes played together force a piece of music forward, so discord in our thoughts, ideas and values compel us to think, reevaluate and criticise.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 165 | Location 2546-2546 | Added on Saturday, June 16, 2018 12:17:00 AM
+
+Consistency is the playground of dull minds.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 185 | Location 2870-2871 | Added on Sunday, June 17, 2018 12:23:17 PM
+
+whereas religion asks us to believe in something, money asks us to believe that other people believe in something.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 186 | Location 2873-2874 | Added on Sunday, June 17, 2018 12:24:03 PM
+
+Money is the only trust system created by humans that can bridge almost any cultural gap, and that does not discriminate on the basis of religion, gender, race, age or sexual orientation.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 210 | Location 3217-3218 | Added on Sunday, June 24, 2018 11:16:48 PM
+
+third great unifier of humankind, alongside money and empires.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 238 | Location 3663-3664 | Added on Thursday, July 5, 2018 9:46:57 PM
+
+Those more deeply informed about the period are much more cognisant of the roads not taken.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 242 | Location 3723-3724 | Added on Friday, July 6, 2018 12:27:35 AM
+
+cultural ideas live inside the minds of humans. They multiply and spread from one host to another, occasionally weakening the hosts and sometimes even killing them.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 242 | Location 3725-3726 | Added on Friday, July 6, 2018 12:27:53 AM
+
+Christian heaven above the clouds or Communist paradise here on earth – can compel a human to dedicate his or her life to spreading that idea, even at the price of death. The human dies, but the idea spreads.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 242 | Location 3724-3725 | Added on Friday, July 6, 2018 12:28:00 AM
+
+cultural idea – such as belief in
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 242 | Location 3723-3726 | Added on Friday, July 6, 2018 12:28:19 AM
+
+cultural ideas live inside the minds of humans. They multiply and spread from one host to another, occasionally weakening the hosts and sometimes even killing them. A cultural idea – such as belief in Christian heaven above the clouds or Communist paradise here on earth – can compel a human to dedicate his or her life to spreading that idea, even at the price of death. The human dies, but the idea spreads.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 242 | Location 3727-3728 | Added on Friday, July 6, 2018 12:28:50 AM
+
+cultures are mental parasites that emerge accidentally, and thereafter take advantage of all people infected by them.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 243 | Location 3748-3748 | Added on Friday, July 6, 2018 12:32:38 AM
+
+Like evolution, history disregards the happiness of individual organisms.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 303 | Location 4670-4673 | Added on Sunday, July 8, 2018 11:27:30 PM
+
+Among today’s elites, assertions about the contrasting merits of diverse human groups are almost always couched in terms of historical differences between cultures rather than biological differences between races. We no longer say, ‘It’s in their blood.’ We say, ‘It’s in their culture.’
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 311 | Location 4793-4795 | Added on Sunday, July 8, 2018 11:40:42 PM
+
+Smith’s claim that the selfish human urge to increase private profits is the basis for collective wealth is one of the most revolutionary ideas in human history
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 312 | Location 4810-4811 | Added on Sunday, July 8, 2018 11:42:46 PM
+
+capitalism is called ‘capitalism’. Capitalism distinguishes
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 312 | Location 4810-4812 | Added on Sunday, July 8, 2018 11:43:08 PM
+
+Capitalism distinguishes ‘capital’ from mere ‘wealth’. Capital consists of money, goods and resources that are invested in production. Wealth, on the other hand, is buried in the ground or wasted on unproductive activities. A pharaoh who pours resources into a non
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 312 | Location 4810-4812 | Added on Sunday, July 8, 2018 11:43:17 PM
+
+Capitalism distinguishes ‘capital’ from mere ‘wealth’. Capital consists of money, goods and resources that are invested in production. Wealth, on the other hand, is buried in the ground or wasted on unproductive activities.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 349 | Location 5388-5389 | Added on Wednesday, July 11, 2018 4:45:21 AM
+
+The capitalist and consumerist ethics are two sides of the same coin, a merger of two commandments. The supreme commandment of the rich is ‘Invest!’ The supreme
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 349 | Location 5388-5389 | Added on Wednesday, July 11, 2018 4:45:31 AM
+
+The capitalist and consumerist ethics are two sides of the same coin, a merger of two commandments. The supreme commandment of the rich is ‘Invest!’ The supreme
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 349 | Location 5388-5389 | Added on Wednesday, July 11, 2018 4:45:43 AM
+
+The capitalist and consumerist ethics are two sides of the same coin, a merger of two commandments. The supreme commandment of the rich is ‘Invest!’ The supreme commandment of the rest of us is ‘Buy!’
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 387 | Location 5990-5992 | Added on Wednesday, July 18, 2018 10:16:11 PM
+
+We tend to believe that if we could just change our workplace, get married, finish writing that novel, buy a new car or repay the mortgage, we would be on top of the world. Yet when we get what we desire we don’t seem to be any happier
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 391 | Location 6047-6048 | Added on Wednesday, July 18, 2018 10:26:27 PM
+
+surplus of pleasant over unpleasant moments.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 392 | Location 6067-6068 | Added on Wednesday, July 18, 2018 10:29:50 PM
+
+happiness is synchronising one’s personal delusions of meaning with the prevailing collective delusions.
+==========
+Sapiens: A Brief History of Humankind (Harari, Yuval Noah)
+- Your Highlight on page 406 | Location 6306-6306 | Added on Sunday, July 22, 2018 11:40:25 PM
+
+through thought alone. One monkey, named Aurora,
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 300 | Location 3986-3988 | Added on Thursday, August 2, 2018 11:23:45 PM
+
+couple, both age seventy-eight, went to a sex therapist’s office. The doctor asked, “What can I do for you?” The man said, “Will you watch us have sexual intercourse?” The doctor looked puzzled, but agreed. When the couple finished, the doctor said, “There’s
+==========
+A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing (Eleventh Edition) (Malkiel, Burton G.)
+- Your Highlight on page 311 | Location 4104-4105 | Added on Saturday, August 4, 2018 10:43:29 PM
+
+your sleeping point will be greatly influenced by the way a loss would affect your financial survival.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 234-236 | Added on Monday, September 3, 2018 11:09:42 PM
+
+fault is not the same as a failure [2]. A fault is usually defined as one component of the system deviating from its spec, whereas a failure is when the system as a whole stops providing the required service to the user
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 2616-2616 | Added on Monday, September 17, 2018 7:04:18 PM
+
+LSM-tree algorithm can be slow when looking up keys that do not exist in the database: you
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 2616-2616 | Added on Monday, September 17, 2018 7:04:27 PM
+
+LSM-tree algorithm can be slow when looking up keys that do not exist in the database
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 2629-2631 | Added on Monday, September 17, 2018 7:05:41 PM
+
+Since data is stored in sorted order, you can efficiently perform range queries (scanning all keys above some minimum and up to some maximum). And because the disk writes are sequential, the LSM-tree can support remarkably high write throughput.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 4084-4084 | Added on Thursday, September 27, 2018 8:30:47 AM
+
+server, and to allow this version selection to
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 4841-4842 | Added on Tuesday, December 4, 2018 12:05:48 AM
+
+We don’t usually think of collaborative editing as a database replication problem, but it has a lot in common with the previously
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 4841-4842 | Added on Tuesday, December 4, 2018 12:05:59 AM
+
+We don’t usually think of collaborative editing as a database replication problem, but it has a lot in common with the previously mentioned offline editing use case
+==========
+Shoe Dog: A Memoir by the Creator of Nike (Knight, Phil)
+- Your Highlight on page 145 | Location 2050-2051 | Added on Saturday, February 16, 2019 1:40:10 AM
+
+Life is growth. You grow or you die.
+==========
+Shoe Dog: A Memoir by the Creator of Nike (Knight, Phil)
+- Your Highlight on page 164 | Location 2320-2320 | Added on Saturday, February 16, 2019 2:09:24 AM
+
+Confidence. More than equity, more than liquidity, that’s what a man needs.
+==========
+Shoe Dog: A Memoir by the Creator of Nike (Knight, Phil)
+- Your Highlight on page 164 | Location 2321-2321 | Added on Saturday, February 16, 2019 2:09:44 AM
+
+But confidence was cash. You had to have some to get some.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 4560-4562 | Added on Tuesday, February 19, 2019 12:53:35 AM
+
+in one incident at GitHub [10], an out-of-date MySQL follower was promoted to leader
+==========
+Shoe Dog: A Memoir by the Creator of Nike (Knight, Phil)
+- Your Highlight on page 351 | Location 4938-4938 | Added on Monday, February 25, 2019 2:07:49 AM
+
+smacked his lips and asked for more.
+==========
+Shoe Dog: A Memoir by the Creator of Nike (Knight, Phil)
+- Your Highlight on page 370 | Location 5213-5213 | Added on Monday, February 25, 2019 2:40:04 AM
+
+“You measure yourself by the people who measure themselves by you.”
+==========
+Shoe Dog: A Memoir by the Creator of Nike (Knight, Phil)
+- Your Highlight on page 382 | Location 5394-5395 | Added on Monday, February 25, 2019 2:59:25 AM
+
+Giving up doesn’t mean stopping. Don’t ever stop.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 9 | Location 205-206 | Added on Tuesday, February 26, 2019 2:16:22 AM
+
+“hard goals” drive performance more effectively than easy goals. Second, specific hard goals “produce a higher level of output” than vaguely worded ones.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 13 | Location 260-260 | Added on Tuesday, February 26, 2019 2:24:13 AM
+
+Larry continued to kick off each quarter with a marathon debate on his leadership team’s objectives.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 22 | Location 366-367 | Added on Thursday, February 28, 2019 12:52:40 AM
+
+It almost doesn’t matter what you know. It’s what you can do with whatever you know or can acquire and actually accomplish [that] tends to be valued here.” Hence the company’s slogan: “Intel delivers.”
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 46 | Location 671-672 | Added on Sunday, March 3, 2019 12:32:16 AM
+
+“Bad companies,” Andy wrote, “are destroyed by crisis. Good companies survive them. Great companies are improved by them.”
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 47 | Location 684-686 | Added on Sunday, March 3, 2019 12:33:52 AM
+
+An effective goal-setting system starts with disciplined thinking at the top, with leaders who invest the time and energy to choose what counts.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 53 | Location 756-756 | Added on Sunday, March 3, 2019 12:43:59 AM
+
+The more ambitious the OKR, the greater the risk of overlooking a vital criterion.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 53 | Location 756-757 | Added on Sunday, March 3, 2019 12:45:26 AM
+
+To safeguard quality while pushing for quantitative deliverables, one solution is to pair key results—to measure “both effect and counter-effect,”
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 75 | Location 1037-1038 | Added on Sunday, March 3, 2019 1:23:24 AM
+
+Our whole team needs sharper focus and clearer priorities, the prerequisites for deeper commitment.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 77 | Location 1062-1063 | Added on Sunday, March 3, 2019 1:26:30 AM
+
+“At any given time,” Aaron said, “some significant percentage of people are working on the wrong things.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 77 | Location 1063-1063 | Added on Sunday, March 3, 2019 1:26:40 AM
+
+The challenge is knowing which ones.”
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 101 | Location 1336-1337 | Added on Sunday, March 3, 2019 2:01:09 AM
+
+Before moving forward, we make sure it lines up with our North Star. That’s what keeps us walking the walk and connected with the people we serve. That’s what makes us who we are.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 104 | Location 1357-1357 | Added on Sunday, March 3, 2019 2:03:13 AM
+
+“We didn’t want bureaucratic compliance,” Atticus says. “We wanted enthusiastic compliance.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 3954-3958 | Added on Monday, March 4, 2019 11:56:12 PM
+
+researchers have continued investigating replication methods that do not lose data but still provide good performance and availability. For example, chain replication [8, 9] is a variant of synchronous replication that has been successfully implemented in a few systems such as Microsoft Azure Storage
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 4221-4223 | Added on Tuesday, March 5, 2019 7:36:08 PM
+
+Monotonic reads [23] is a guarantee that this kind of anomaly does not happen. It’s a lesser guarantee than strong consistency, but a stronger guarantee than eventual consistency
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 4669-4670 | Added on Tuesday, March 5, 2019 8:14:40 PM
+
+if you lock yourself out of your house, you may knock on the neighbor’s door and ask whether you may stay on their couch temporarily.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 4671-4673 | Added on Tuesday, March 5, 2019 8:14:47 PM
+
+Once the network interruption is fixed, any writes that one node temporarily accepted on behalf of another node are sent to the appropriate “home” nodes. This is called hinted handoff. (Once you find the keys to your house again, your neighbor politely asks you to get off their couch and go home.)
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 4755-4756 | Added on Tuesday, March 5, 2019 8:21:28 PM
+
+we can simply say that two operations are concurrent if neither happens before the other (i.e., neither knows about the other)
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 4757-4759 | Added on Tuesday, March 5, 2019 8:23:15 PM
+
+whenever you have two operations A and B, there are three possibilities: either A happened before B, or B happened before A, or A and B are concurrent. What we need is an algorithm to tell us whether two operations are concurrent or not. If one
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 4759-4760 | Added on Tuesday, March 5, 2019 8:23:22 PM
+
+operation happened before another, the later operation should overwrite the earlier operation, but if the operations are concurrent, we have a conflict that needs to be resolved.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 4768-4770 | Added on Tuesday, March 5, 2019 8:24:34 PM
+
+information cannot travel faster than the speed of light. Consequently, two events that occur some distance apart cannot possibly affect each other if the time between the events is shorter than the time it takes light to travel the distance between them
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 5337-5338 | Added on Thursday, March 7, 2019 12:22:52 AM
+
+The problem with the mod N approach is that if the number of nodes N changes, most of the keys will need to be moved from one node to another.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 6585-6586 | Added on Thursday, March 7, 2019 11:01:20 PM
+
+In “Phantoms causing write skew” we discussed the problem of phantoms — that is, one transaction changing the results of another transaction’s search query
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 6662-6662 | Added on Thursday, March 7, 2019 11:05:15 PM
+
+serializable snapshot isolation is an optimistic concurrency control technique
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 6746-6748 | Added on Thursday, March 7, 2019 11:13:28 PM
+
+Compared to two-phase locking, the big advantage of serializable snapshot isolation is that one transaction doesn’t need to block waiting for locks held by another transaction
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 105 | Location 1376-1377 | Added on Sunday, March 10, 2019 3:00:49 AM
+
+When you’re putting out fires every day, it’s hard to build a next-generation billing technology. How could we signal
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 105 | Location 1376-1377 | Added on Sunday, March 10, 2019 3:00:55 AM
+
+When you’re putting out fires every day, it’s hard to build a next-generation billing technology.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 107 | Location 1400-1401 | Added on Sunday, March 10, 2019 3:04:35 AM
+
+When people work outside the center, they’re left to wonder what gets done at headquarters. (And headquarters may wonder about them, too.) OKRs ended the mystery.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 7020-7020 | Added on Sunday, March 10, 2019 11:01:36 PM
+
+The difficulty is that partial failures are nondeterministic:
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 110 | Location 1448-1449 | Added on Thursday, March 14, 2019 12:31:39 AM
+
+When it no longer needs the extra attention, we’ll let it drift back down into a KR.” It’s a dynamic system.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 110 | Location 1448-1450 | Added on Thursday, March 14, 2019 12:31:46 AM
+
+When it no longer needs the extra attention, we’ll let it drift back down into a KR.” It’s a dynamic system. You’re always adjusting the altitude.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 119 | Location 1562-1563 | Added on Friday, March 15, 2019 7:28:45 PM
+
+Our goals are servants to our purpose, not the other way around.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 124 | Location 1641-1642 | Added on Friday, March 15, 2019 7:39:21 PM
+
+John Dewey went a step further: “We do not learn from experience . . . we learn from reflecting on experience.”
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 124 | Location 1643-1647 | Added on Friday, March 15, 2019 7:41:37 PM
+
+Did I accomplish all of my objectives? If so, what contributed to my success? If not, what obstacles did I encounter? If I were to rewrite a goal achieved in full, what would I change? What have I learned that might alter my approach to the next cycle’s OKRs?
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Note on page 125 | Location 1647 | Added on Friday, March 15, 2019 7:42:04 PM
+
+Okr reflections
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 134 | Location 1757-1757 | Added on Friday, March 15, 2019 7:57:04 PM
+
+Those who do more than anyone thinks possible . . . with less than anyone
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 134 | Location 1756-1758 | Added on Friday, March 15, 2019 7:58:19 PM
+
+favorite definition of entrepreneurs: Those who do more than anyone thinks possible . . . with less than anyone thinks possible.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 139 | Location 1812-1813 | Added on Friday, March 15, 2019 8:07:38 PM
+
+Most people, Larry Page observes, “tend to assume that things are impossible, rather than starting from real-world physics and figuring out what’s actually possible.”
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 139 | Location 1814-1816 | Added on Friday, March 15, 2019 8:08:44 PM
+
+a ten percent improvement means that you’re doing the same thing as everybody else. You probably won’t fail spectacularly, but you are guaranteed not to succeed wildly.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 147 | Location 1901-1902 | Added on Friday, March 15, 2019 8:27:51 PM
+
+He wanted people at Google to be “uncomfortably excited.”
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 147 | Location 1904-1905 | Added on Friday, March 15, 2019 8:28:27 PM
+
+As a leader, you must try to challenge the team without making them feel the goal is unachievable.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 149 | Location 1927-1928 | Added on Friday, March 15, 2019 8:30:59 PM
+
+tried to be thoughtful and systematic and not too emotional, and I think that helped.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 176 | Location 2219-2220 | Added on Friday, March 15, 2019 10:17:33 PM
+
+“Not everything that can be counted counts, and not everything that counts can be counted.”
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 7571-7572 | Added on Saturday, March 16, 2019 8:08:30 PM
+
+Google deploys a GPS receiver or atomic clock in each datacenter, allowing clocks to be synchronized to within about 7 ms
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 7668-7669 | Added on Saturday, March 16, 2019 8:23:01 PM
+
+For example, if your car’s onboard sensors detect that you are currently experiencing a crash, you wouldn’t want the release of the airbag to be delayed due to an inopportune GC pause in the airbag release system.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 7733-7734 | Added on Saturday, March 16, 2019 8:29:21 PM
+
+node cannot necessarily trust its own judgment of a situation.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 7791-7792 | Added on Saturday, March 16, 2019 8:39:59 PM
+
+the clients are often run by people whose priorities are very different from the priorities of the people running the service
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 7908-7908 | Added on Saturday, March 16, 2019 8:51:40 PM
+
+For modeling real systems, the partially synchronous model with crash-recovery faults is generally the most useful model.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 8002-8003 | Added on Saturday, March 16, 2019 9:00:50 PM
+
+scalability is not the only reason for wanting to use a distributed system
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 8003-8004 | Added on Saturday, March 16, 2019 9:01:04 PM
+
+Fault tolerance and low latency (by placing data geographically close to users) are equally important goals, and those things cannot be achieved with a single node.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 8531-8532 | Added on Monday, March 18, 2019 7:37:54 PM
+
+linearizability essentially means “behave as though there is only a single copy of the data, and all operations on it are atomic
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 8653-8654 | Added on Monday, March 18, 2019 7:48:11 PM
+
+a better way of phrasing CAP would be either Consistent or Available when Partitioned
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 8689-8689 | Added on Monday, March 18, 2019 7:50:20 PM
+
+The reason for dropping linearizability
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 8689-8690 | Added on Monday, March 18, 2019 7:50:26 PM
+
+The reason for dropping linearizability is performance, not fault tolerance.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 8884-8885 | Added on Monday, March 18, 2019 8:09:42 PM
+
+each node keeps a counter of the number of operations it has processed. The Lamport timestamp is then simply a pair of (counter, node ID).
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 184 | Location 2336-2337 | Added on Wednesday, March 20, 2019 11:47:47 PM
+
+Unlike negative criticism, coaching trains its sights on future improvement.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 203 | Location 2551-2552 | Added on Thursday, March 21, 2019 12:15:32 AM
+
+Unsuccessful companies scale beyond the leadership team’s capacity, and they die. Successful companies scale beyond the team’s abilities and the team gets replaced.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 208 | Location 2626-2627 | Added on Thursday, March 21, 2019 12:22:27 AM
+
+What makes you very happy? What saps your energy? How would you describe your dream job?
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Note on page 208 | Location 2626 | Added on Thursday, March 21, 2019 12:22:57 AM
+
+1 :1 questions 
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 10720-10722 | Added on Friday, March 22, 2019 11:55:26 PM
+
+OLTP queries generally look up a small number of records by key, using indexes, in order to present them to a user (for example, on a web page). On the other hand, analytic queries often scan over a large number of records, performing groupings and aggregations, and the output often has the form of a report:
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 10867-10868 | Added on Saturday, March 23, 2019 12:21:47 PM
+
+in practice, it appears that simply making data available quickly — even if it is in a quirky, difficult-to-use, raw format — is often more valuable than trying to decide on the ideal data model up front
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 11174-11175 | Added on Saturday, March 23, 2019 12:48:53 PM
+
+if your graph can fit in memory on a single computer, it’s quite likely that a single-machine (maybe even single-threaded) algorithm will outperform a distributed batch process
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 13069-13070 | Added on Sunday, March 24, 2019 12:47:27 AM
+
+If it is possible for you to funnel all user input through a single system that decides on an ordering for all writes, it becomes much easier to derive other representations of the data by processing the writes in the same order.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 13120-13121 | Added on Sunday, March 24, 2019 6:46:31 PM
+
+deciding on a total order of events is known as total order broadcast, which is equivalent to consensus
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 13181-13181 | Added on Sunday, March 24, 2019 7:18:43 PM
+
+Batch processing has a quite strong functional flavor
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 13198-13198 | Added on Sunday, March 24, 2019 7:20:00 PM
+
+secondary indexes often cross partition boundaries
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 13589-13590 | Added on Sunday, March 24, 2019 8:53:38 PM
+
+The fastest and most reliable network request is no network request at all!
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 13625-13626 | Added on Sunday, March 24, 2019 8:56:26 PM
+
+No index means less work on the write path (no index to update), but a lot more work on the read path.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 13635-13636 | Added on Sunday, March 24, 2019 8:57:48 PM
+
+the role of caches, indexes, and materialized views is simple: they shift the boundary between the read path and the write path.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 13697-13698 | Added on Sunday, March 24, 2019 9:41:05 PM
+
+Many datastores support read and write operations where a request returns one response, but much fewer provide an ability to subscribe to changes
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 13894-13895 | Added on Sunday, March 24, 2019 10:00:53 PM
+
+We just need to remember that the low-level reliability features are not by themselves sufficient to ensure end-to-end correctness.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 14031-14032 | Added on Sunday, March 24, 2019 11:25:01 PM
+
+violations of timeliness are “eventual consistency,” whereas violations of integrity are “perpetual inconsistency.”
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 14225-14226 | Added on Sunday, March 24, 2019 11:41:29 PM
+
+If we cannot fully trust that every individual component of the system will be free from corruption — that every piece of hardware is fault-free and that every piece of software is bug-free — then we must at least periodically check the integrity of our data.
+==========
+Designing Data-Intensive Applications (Martin Kleppmann)
+- Your Highlight on Location 14451-14452 | Added on Monday, March 25, 2019 12:07:32 AM
+
+Having privacy does not mean keeping everything secret; it means having the freedom to choose which things to reveal to whom, what to make public, and what to keep secret.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 223 | Location 2798-2800 | Added on Wednesday, March 27, 2019 6:55:06 PM
+
+first you need to get “the right people on the bus, the wrong people off the bus, and the right people in the right seats.” Only then do you turn the wheel and step on the gas.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 244 | Location 3053-3053 | Added on Sunday, March 31, 2019 8:18:11 PM
+
+“If everything’s at green, you failed.”
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 244 | Location 3057-3058 | Added on Sunday, March 31, 2019 8:25:00 PM
+
+It takes intellectual rigor to effect change;
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 244 | Location 3058-3058 | Added on Sunday, March 31, 2019 8:25:23 PM
+
+If the heart doesn’t find a perfect rhyme with the head, then your passion means nothing.
+==========
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs (Doerr, John)
+- Your Highlight on page 274 | Location 3391-3392 | Added on Sunday, March 31, 2019 8:54:07 PM
+
+For each objective, settle on no more than five measurable, unambiguous, time-bound key results
+==========
+Functional Thinking (Neal Ford)
+- Your Highlight on Location 363-364 | Added on Monday, April 1, 2019 9:04:44 PM
+
+OO makes code understandable by encapsulating moving parts. FP makes code understandable by minimizing moving parts
+==========
+Computation in Ancient India (Kak, Subhash)
+- Your Highlight on page 144 | Location 2647-2650 | Added on Thursday, April 11, 2019 8:37:14 PM
+
+thought processes and quantum systems are analogous in that they can not be analyzed too much in terms of distinct elements, because the intrinsic nature of each element is not a property existing separately from and independently of other elements but is, instead, a property that arises partially from its relation with other elements.
+==========
+Computation in Ancient India (Kak, Subhash)
+- Your Highlight on page 109 | Location 2019-2021 | Added on Friday, April 12, 2019 12:18:23 AM
+
+The two main Ṛṣi families in the Ṛg Veda are the Aṅgirasas, of which Bṛhaspati is the foremost, and the Bhṛgus of which Kavi, Uśanas or Śukra is the most important.
+==========
+Computation in Ancient India (Kak, Subhash)
+- Your Highlight on page 110 | Location 2034-2037 | Added on Friday, April 12, 2019 12:19:38 AM
+
+Indra, the greatest of the Vedic Gods, is associated with the planet Jupiter. This is quite impelling in that Roman Jupiter or Dyaus Pitar as the giver of the rains is clearly the Roman equivalent of Vedic Indra.
+==========
+Computation in Ancient India (Kak, Subhash)
+- Your Bookmark on page 111 | Location 2050 | Added on Friday, April 12, 2019 12:20:54 AM
+
+
+==========
+Computation in Ancient India (Kak, Subhash)
+- Your Bookmark on page 112 | Location 2060 | Added on Friday, April 12, 2019 12:23:01 AM
+
+
+==========
+Computation in Ancient India (Kak, Subhash)
+- Your Bookmark on page 113 | Location 2096 | Added on Friday, April 12, 2019 12:23:27 AM
+
+
+==========
+A Short History of Nearly Everything (Bryson, Bill)
+- Your Highlight on page 3 | Location 121-124 | Added on Friday, April 12, 2019 6:12:37 PM
+
+Of the billions and billions of species of living thing that have existed since the dawn of time, most—99.99 percent—are no longer around. Life on Earth, you see, is not only brief but dismayingly tenuous. It is a curious feature of our existence that we come from a planet that is very good at promoting life but even better at extinguishing it.
+==========
+A Short History of Nearly Everything (Bryson, Bill)
+- Your Highlight on page 24 | Location 438-442 | Added on Friday, April 12, 2019 9:10:31 PM
+
+On a diagram of the solar system to scale, with Earth reduced to about the diameter of a pea, Jupiter would be over a thousand feet away and Pluto would be a mile and a half distant (and about the size of a bacterium, so you wouldn’t be able to see it anyway). On the same scale, Proxima Centauri, our nearest star, would be almost ten thousand miles away. Even if you shrank down everything so that Jupiter was as small as the period at the end of this sentence, and Pluto was no bigger than a molecule, Pluto would still be over thirty-five feet away.
+==========
+A Short History of Nearly Everything (Bryson, Bill)
+- Your Highlight on page 26 | Location 461-462 | Added on Friday, April 12, 2019 9:14:24 PM
+
+The basic unit of measure in the solar system is the Astronomical Unit, or AU, representing the distance from the Sun to the Earth.
+==========
+A Short History of Nearly Everything (Bryson, Bill)
+- Your Highlight on page 26 | Location 461-462 | Added on Friday, April 12, 2019 9:14:37 PM
+
+The basic unit of measure in the solar system is the Astronomical Unit, or AU, representing the distance from the Sun to the Earth. Pluto is about forty AUs from us, the heart of the Oort cloud about fifty thousand.
+==========
+A Short History of Nearly Everything (Bryson, Bill)
+- Your Highlight on page 32 | Location 553-554 | Added on Friday, April 12, 2019 9:28:52 PM
+
+The core of a neutron star is so dense that a single spoonful of matter from it would weigh 200 billion pounds.
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 40 | Location 569-571 | Added on Saturday, April 13, 2019 3:27:13 AM
+
+Most people live — whether physically, intellectually or morally — in a very restricted circle of their potential being. We all have reservoirs of life to draw upon of which we do not dream.
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 43 | Location 599-600 | Added on Saturday, April 13, 2019 3:31:27 AM
+
+mind management is the essence of life management.
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 46 | Location 637-639 | Added on Saturday, April 13, 2019 3:37:02 AM
+
+No matter what happens to you in your life, you alone have the capacity to choose your response to it. When you form the habit of searching for the positive in every circumstance, your life will move into its highest dimensions. This is one of the greatest of all the natural laws.”
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 46 | Location 648-650 | Added on Saturday, April 13, 2019 3:39:14 AM
+
+‘There are no mistakes in life, only lessons. There is no such thing as a negative experience, only opportunities to grow, learn and advance along the road of self-mastery. From struggle comes strength. Even pain can be a wonderful teacher.’”
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 47 | Location 654-654 | Added on Saturday, April 13, 2019 3:40:16 AM
+
+stop judging events as either positive or negative. Rather, simply experience them, celebrate them and learn from them.
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 50 | Location 701-704 | Added on Saturday, April 13, 2019 3:47:37 AM
+
+When you are inspired by some great purpose, some extraordinary project, all of your thoughts break their bonds: your mind transcends limitations, your consciousness expands in every direction and you find yourself in a new, great and wonderful world. Dormant forces, faculties and talents become alive, and you discover yourself to be a greater person than you ever dreamed yourself to be.
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 64 | Location 900-901 | Added on Saturday, April 13, 2019 11:55:33 AM
+
+worrisome thought is like an embryo: it starts off small but grows and grows. Soon it takes on a life of its own.”
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 69 | Location 961-962 | Added on Saturday, April 13, 2019 12:04:00 PM
+
+‘There is nothing noble about being superior to some other person. True nobility lies in being superior to your former self.’
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 69 | Location 967-968 | Added on Saturday, April 13, 2019 12:05:08 PM
+
+‘Every second you spend thinking about someone else’s dreams, you take time away from your own.’”
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 71 | Location 979-980 | Added on Saturday, April 13, 2019 12:07:26 PM
+
+When you consistently direct your mind to live in the present, you will always have boundless energy,
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 74 | Location 1017-1018 | Added on Saturday, April 13, 2019 12:12:43 PM
+
+the purpose of life is a life of purpose.
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 85 | Location 1171-1174 | Added on Saturday, April 13, 2019 12:29:45 PM
+
+Step one is to have a clear vision of your outcome. Step two is to create positive pressure to keep you inspired. The third step is a simple one: never set a goal without attaching a timeline to it. To breathe life into a goal you must attach a precise deadline to it. It’s just like when you are preparing cases for court; you always focus your attention on the ones the judge has scheduled to be heard tomorrow rather than on the ones without any court date.
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 85 | Location 1171-1172 | Added on Saturday, April 13, 2019 12:30:44 PM
+
+Step one is to have a clear vision of your outcome. Step two is to create positive pressure to keep you inspired. The third step is a simple one: never set a goal without attaching a timeline to it. To breathe life into a goal you must attach a precise deadline to it.
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 87 | Location 1201-1202 | Added on Saturday, April 13, 2019 12:34:00 PM
+
+for new behavior to crystallize into a habit, one had to perform the new activity for twenty-one days in a row.”
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 89 | Location 1220-1220 | Added on Saturday, April 13, 2019 12:36:06 PM
+
+There is tremendous power in a ritual.
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 99 | Location 1352-1353 | Added on Saturday, April 13, 2019 12:52:37 PM
+
+‘The only limits on your life are those that you set yourself.’
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 135 | Location 1861-1861 | Added on Saturday, April 13, 2019 1:33:56 PM
+
+unless you reduce your needs, you will never be fulfilled
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 146 | Location 1984-1984 | Added on Monday, April 15, 2019 6:16:33 PM
+
+the lack of willpower is a mental disease
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 151 | Location 2064-2065 | Added on Monday, April 15, 2019 6:38:56 PM
+
+“When you control your thoughts, you control your mind. When you control your mind, you control your life. And once you reach the stage of being in total control of your life, you become the master of your destiny.”
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 153 | Location 2081-2082 | Added on Monday, April 15, 2019 6:42:01 PM
+
+“Wisdom without proper tools for its application is no wisdom at all.”
+==========
+The Monk Who Sold His Ferrari (Sharma, Robin)
+- Your Highlight on page 177 | Location 2395-2396 | Added on Monday, April 15, 2019 7:20:20 PM
+
+“They simply needed the spark of awareness to light their candle of compassion.
+==========
+A Short History of Nearly Everything (Bryson, Bill)
+- Your Highlight on page 56 | Location 888-889 | Added on Tuesday, April 30, 2019 7:15:39 PM
+
+mean distance from the Earth to the Sun was a little over 150 million kilometers.
+==========
+A Short History of Nearly Everything (Bryson, Bill)
+- Your Highlight on page 62 | Location 972-973 | Added on Tuesday, April 30, 2019 7:24:31 PM
+
+The current best estimate for Earth’s weight is 5.9725 billion trillion
+==========
+A Short History of Nearly Everything (Bryson, Bill)
+- Your Highlight on page 62 | Location 972-973 | Added on Tuesday, April 30, 2019 7:24:49 PM
+
+The current best estimate for Earth’s weight is 5.9725 billion trillion metric tons,
+==========
+A Short History of Nearly Everything (Bryson, Bill)
+- Your Highlight on page 63 | Location 990-992 | Added on Tuesday, April 30, 2019 7:27:12 PM
+
+How fast you are spinning depends on where you are. The speed of the Earth’s spin varies from a little over 1,000 miles an hour at the equator to zero at the poles.
+==========
+Thinking, Fast and Slow (Kahneman, Daniel)
+- Your Highlight on page 8 | Location 126-127 | Added on Monday, May 13, 2019 4:20:46 AM
+
+People tend to assess the relative importance of issues by the ease with which they are retrieved from memory—and this is largely determined by the extent of coverage in the media.
+==========
+Thinking, Fast and Slow (Kahneman, Daniel)
+- Your Highlight on page 11 | Location 183-184 | Added on Monday, May 13, 2019 4:37:18 AM
+
+“The situation has provided a cue; this cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than recognition
+==========
+Thinking, Fast and Slow (Kahneman, Daniel)
+- Your Highlight on page 12 | Location 204-205 | Added on Monday, May 13, 2019 4:41:53 AM
+
+This is the essence of intuitive heuristics: when faced with a difficult question, we often answer an easier one instead, usually without noticing the substitution.
+==========
+Thinking, Fast and Slow (Kahneman, Daniel)
+- Your Highlight on page 27 | Location 379-380 | Added on Monday, May 13, 2019 5:23:16 AM
+
+famous Müller-Lyer illusion.
+==========
+Thinking, Fast and Slow (Kahneman, Daniel)
+- Your Highlight on page 28 | Location 406-408 | Added on Monday, May 13, 2019 5:27:47 AM
+
+The best we can do is a compromise: learn to recognize situations in which mistakes are likely and try harder to avoid significant mistakes when the stakes are high. The premise of this book is that it is easier to recognize other people’s mistakes than our own.
+==========
+Thinking, Fast and Slow (Kahneman, Daniel)
+- Your Highlight on page 38 | Location 577-578 | Added on Thursday, May 16, 2019 5:26:45 PM
+
+“What came quickly to my mind was an intuition from System 1. I’ll have to start over and search my memory deliberately.”
+==========
+Thinking, Fast and Slow (Kahneman, Daniel)
+- Your Highlight on page 43 | Location 651-652 | Added on Thursday, May 16, 2019 5:54:34 PM
+
+When you are actively involved in difficult cognitive reasoning or engaged in a task that requires self-
+==========
+Thinking, Fast and Slow (Kahneman, Daniel)
+- Your Highlight on page 43 | Location 651-652 | Added on Thursday, May 16, 2019 5:54:46 PM
+
+When you are actively involved in difficult cognitive reasoning or engaged in a task that requires self-control, your blood glucose level drops.
+==========
+Thinking, Fast and Slow (Kahneman, Daniel)
+- Your Highlight on page 44 | Location 675-677 | Added on Thursday, May 16, 2019 5:59:35 PM
+
+A bat and ball cost $1.10. The bat costs one dollar more than the ball. How much does the ball cost?
+==========
+Thinking, Fast and Slow (Kahneman, Daniel)
+- Your Highlight on page 46 | Location 713-714 | Added on Thursday, May 16, 2019 6:05:25 PM
+
+Intelligence is not only the ability to reason; it is also the ability to find relevant material in memory and to deploy attention when needed.
+==========
